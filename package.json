@@ -1,0 +1,20 @@
+{
+  "name": "node-hackrf-example",
+  "version": "1.0.0",
+  "description": "https://github.com/mappum/node-hackrf#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gyaresu/node-hackrf-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyaresu/node-hackrf-example/issues"
+  },
+  "homepage": "https://github.com/gyaresu/node-hackrf-example#readme"
+}
